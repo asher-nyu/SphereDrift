@@ -1,0 +1,3 @@
+/Users/qz2726/Documents/Developer/C++/SphereDrift/build/CMakeFiles/SphereDrift.dir
+/Users/qz2726/Documents/Developer/C++/SphereDrift/build/CMakeFiles/edit_cache.dir
+/Users/qz2726/Documents/Developer/C++/SphereDrift/build/CMakeFiles/rebuild_cache.dir

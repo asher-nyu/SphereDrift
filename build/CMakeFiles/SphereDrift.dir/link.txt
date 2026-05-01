@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++11 -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/SphereDrift.dir/InitShader.cpp.o CMakeFiles/SphereDrift.dir/SphereDrift.cpp.o -o SphereDrift  -framework OpenGL -framework OpenGL -framework GLUT -framework Cocoa
